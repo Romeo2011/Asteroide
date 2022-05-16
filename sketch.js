@@ -7,7 +7,7 @@ var nebulaImg,vaisseauImg,thrustImg,rockImg, laserImg,explosionImg,playImg;
 var rock_groupe, laser_groupe;
 
 //dimension zone de jeu
-var LARGEUR = 1200;
+var LARGEUR = 600;
 var HAUTEUR = 600;
 
 // variables états de jeu
